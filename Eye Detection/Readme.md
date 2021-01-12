@@ -1,0 +1,1 @@
+Eye Detection Algorithm is developed using harrcascade classifier which detect face objects according to the input.The input should be face image with face rotation between range of -45degree to +45degree.
